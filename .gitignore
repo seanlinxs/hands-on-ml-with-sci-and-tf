@@ -108,3 +108,6 @@ datasets
 
 # images
 images
+
+# logs
+tf_logs
